@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cover-genius-insurance-policy-card/static/css/main.8d9d48d4.css",
+    "main.js": "/cover-genius-insurance-policy-card/static/js/main.409ed7fb.js",
+    "index.html": "/cover-genius-insurance-policy-card/index.html",
+    "main.8d9d48d4.css.map": "/cover-genius-insurance-policy-card/static/css/main.8d9d48d4.css.map",
+    "main.409ed7fb.js.map": "/cover-genius-insurance-policy-card/static/js/main.409ed7fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d9d48d4.css",
+    "static/js/main.409ed7fb.js"
+  ]
+}
